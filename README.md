@@ -6,4 +6,4 @@ A proposta aqui apresentada é uma  SOLUÇÃO para a automatização do atendime
 intuito de atrair e atingir novos clientes bem como agilizar o processo de atendimento, apresentação de produtos e serviços, 
 agendamento de campanhas e postagens ao longo do tempo e marketing digital.
 sinta-se à vontade para testá-lo. O Chatbot ainda se encontra em desenvolvimento.
-Acesse: https://www.facebook.com/Clinica-Odontol%C3%B3gica-673435456338336/?modal=admin_todo_tour
+Acesse: https://www.facebook.com/Clinica-Odontol%C3%B3gica-673435456338336/
